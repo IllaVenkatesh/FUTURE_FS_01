@@ -197,9 +197,9 @@ A downloadable version of my resume is available directly from the portfolio web
 
 📧 [venkateshilla1818@gmail.com](mailto:venkateshilla1818@gmail.com)
 
-💼 LinkedIn: *(Add your LinkedIn URL)*
+💼 LinkedIn: https://www.linkedin.com/in/illa-venkatesh/
 
-💻 GitHub: *(Add your GitHub URL)*
+💻 GitHub: https://github.com/IllaVenkatesh
 
 ---
 
